@@ -1,6 +1,4 @@
-Student of Voronezh State University, Faculty of Computer Science
-
-I'm currently learning Java, C
+Pupupupupupupu
 
 <!--
 **Ron788/Ron788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
